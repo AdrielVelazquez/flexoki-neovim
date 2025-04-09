@@ -32,7 +32,7 @@ M.groups = function()
 		["BlinkCmpKindField"] = { fg = c.red, bg = "NONE" },
 		["BlinkCmpKindProperty"] = { fg = c.red, bg = "NONE" },
 		["BlinkCmpKindEnumMember"] = { fg = c.orange, bg = "NONE" },
-		["BlinkCmpKindConstant"] = { fg = c.orange, bg = "NONE" },
+		["BlinkCmpKindConstant"] = { fg = c.blue, bg = "NONE" },
 		["BlinkCmpKindKeyword"] = { fg = c.purple, bg = "NONE" },
 		["BlinkCmpKindModule"] = { fg = c.cyan, bg = "NONE" },
 		["BlinkCmpKindValue"] = { fg = c.fg, bg = "NONE" },
